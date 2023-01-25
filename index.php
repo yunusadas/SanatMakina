@@ -61,36 +61,34 @@ require_once 'header.php';
           <div class="dl-caption medium">
             <div class="inner-layer">
               <div data-animation="fade-in-top" data-delay="1s">
-                Residencial
+                Sanat Makina
               </div>
             </div>
           </div>
           <div class="dl-caption big">
             <div class="inner-layer">
               <div data-animation="fade-in-bottom" data-delay="2s">
-                We are professional
+                1984'ten beri sektörde öncü
               </div>
             </div>
           </div>
           <div class="dl-caption big">
             <div class="inner-layer">
               <div data-animation="fade-in-bottom" data-delay="2.5s">
-                for building construction.
+                dolum tesislerini üretiyoruz.
               </div>
             </div>
           </div>
           <div class="dl-caption small">
             <div class="inner-layer">
               <div data-animation="fade-in-bottom" data-delay="3s">
-                We have provided complete remodeling and construction
-                solutions for <br />residential and commercial properties in
-                cities.
+                Entegre dolum tesislerinin tüm ihtiyaçlarına uygun makinaları <br /> teknoloji katıyoruz.
               </div>
             </div>
           </div>
           <div class="dl-btn-group">
             <div class="inner-layer">
-              <a href="#" class="dl-btn" data-animation="fade-in-bottom" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+              <a href="projects" class="dl-btn" data-animation="fade-in-bottom" data-delay="3.5s">Daha Fazla <i class="arrow_right"></i></a>
             </div>
           </div>
         </div>
@@ -106,36 +104,35 @@ require_once 'header.php';
           <div class="dl-caption medium">
             <div class="inner-layer">
               <div data-animation="fade-in-left" data-delay="1s">
-                Residencial
+                Sanat Makina
               </div>
             </div>
           </div>
           <div class="dl-caption big">
             <div class="inner-layer">
               <div data-animation="fade-in-right" data-delay="2s">
-                We will be happy to take care
+                Dünya standardı teknolojiyi
               </div>
             </div>
           </div>
           <div class="dl-caption big">
             <div class="inner-layer">
               <div data-animation="fade-in-right" data-delay="2.5s">
-                of your construction works.
+                makineler ile buluşturuyoruz.
               </div>
             </div>
           </div>
           <div class="dl-caption small">
             <div class="inner-layer">
               <div data-animation="fade-in-right" data-delay="3s">
-                We have provided complete remodeling and construction
-                solutions for <br />residential and commercial properties in
-                cities.
+                Üstün mühendis kadromuz ile geliştirmekte olduğumuz<br />ar-ge projelerini sektöre kazandırıyoruz.
               </div>
             </div>
           </div>
           <div class="dl-btn-group">
             <div class="inner-layer">
-              <a href="#" class="dl-btn" data-animation="fade-in-right" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+              <a href="projects" class="dl-btn" data-animation="fade-in-right" 
+              data-delay="3.5s">Projeler<i class="arrow_right"></i></a>
             </div>
           </div>
         </div>
@@ -218,9 +215,9 @@ require_once 'header.php';
             <h3>Dolum </h3>
             <p>
               Çalkalama Dolum ve Kapama Makinası.
-              Cam ve Pet şişeler su, meyva suyu, sirke, yağ gibi gazsız sıvıların dolumunu yapabilmektedir.
+              Cam ve pet şişeler; su, meyve suyu, sirke, yağ gibi gazsız sıvıların dolumunu yapabilmektedir.
             </p>
-            <a href="#" class="read-more">Read More</a>
+            <a href="#" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-3d-printer"></i>
             </div>
@@ -234,7 +231,7 @@ require_once 'header.php';
               Etiket Yapıştırma Makinesi. Silindirik şişelere
               çepeçevre veya alın etiketi yapıştırmak için tasarlanmıştır. Tam otomatiktir.
             </p>
-            <a href="#" class="read-more">Read More</a>
+            <a href="#" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-industrial-robot"></i>
             </div>
@@ -248,7 +245,7 @@ require_once 'header.php';
               Dolum makinesinden çıkan sıcak şişelerin
               soğutulmasında veya soğuk şişelerin ısıtılmasında kullanılır.
             </p>
-            <a href="#" class="read-more">Read More</a>
+            <a href="#" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-assembly-line"></i>
             </div>
@@ -261,7 +258,7 @@ require_once 'header.php';
             <p>
               Şişe Temizleme Çalkalama Makinesi. Dolum makinesine şişelerin temizenmiş bir şekilde girmesini sağlar. Basınçlı yıkama.
             </p>
-            <a href="#" class="read-more">Read More</a>
+            <a href="#" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-conveyor"></i>
             </div>
@@ -274,7 +271,7 @@ require_once 'header.php';
             <p>
             <div>Paletleme - Palet Bozma Makinesi. Paletler halinde gelen şişeleri dolum hattına verme. Dolum hattı sonunda dolu şişeleri paletleme.</div>
             </p>
-            <a href="#" class="read-more">Read More</a>
+            <a href="#" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-control-system"></i>
             </div>
@@ -293,8 +290,7 @@ require_once 'header.php';
           <div class="number-line"></div>
           <h3>Planlama & Araştırma</h3>
           <p>
-            We are committed building a sustainable future fostering a
-            collaborative spirit.
+            Üretilmesi hedeflenen sistemlerin, üretim ortamına geçişinden önce tam performanslı araştırması yapılır.
           </p>
         </div>
       </div>
@@ -304,8 +300,7 @@ require_once 'header.php';
           <div class="number-line"></div>
           <h3>Tasarım Fikirleri</h3>
           <p>
-            We are committed building a sustainable future fostering a
-            collaborative spirit.
+            Size en uygun verimi sağlayacak üretim standartlarına uygun makina seçimi yapılır.
           </p>
         </div>
       </div>
@@ -315,8 +310,7 @@ require_once 'header.php';
           <div class="number-line"></div>
           <h3>Teknik Projelendirme</h3>
           <p>
-            We are committed building a sustainable future fostering a
-            collaborative spirit.
+            Tarafımızca üretim süreci, maaliyet hesaplama vb. basamakların düzenlenmesi yapılır.
           </p>
         </div>
       </div>
@@ -325,8 +319,7 @@ require_once 'header.php';
           <span class="number">4</span>
           <h3>Ürünleştirme</h3>
           <p>
-            We are committed building a sustainable future fostering a
-            collaborative spirit.
+           Tarafların mutabakatı sağlaması akabinde vaad edilen sürede fabrika hattınız üretilmeye başlanır.
           </p>
         </div>
       </div>
@@ -355,9 +348,9 @@ require_once 'header.php';
         <a href="img/dimril_thumb.webp" class="view-icon img-popup" data-gall="project">
           <i class="fas fa-expand"></i></a>
         <div class="projects-content">
-          <a href="#" class="category">Interior</a>
+          <a href="about-us" class="category">Sanat Makina</a>
           <h3>
-            <a href="#" class="tittle">Rectangular house near italy</a>
+            <a href="dirmil" class="tittle">Dirmil Monoblok</a>
           </h3>
         </div>
       </div>
@@ -367,9 +360,9 @@ require_once 'header.php';
         <a href="img/project-2.jpg" class="view-icon img-popup" data-gall="project">
           <i class="fas fa-expand"></i></a>
         <div class="projects-content">
-          <a href="#" class="category">Architecture</a>
+          <a href="about-us" class="category">Sanat Makina</a>
           <h3>
-            <a href="#" class="tittle">Cathedral of brasilia brasilia</a>
+            <a href="arbafa" class="tittle">Arbafa Etiketleme</a>
           </h3>
         </div>
       </div>
@@ -379,9 +372,9 @@ require_once 'header.php';
         <a href="img/project-3.jpg" class="view-icon img-popup" data-gall="project">
           <i class="fas fa-expand"></i></a>
         <div class="projects-content">
-          <a href="#" class="category">Design</a>
+          <a href="about-us" class="category">Sanat Makina</a>
           <h3>
-            <a href="#" class="tittle">Harpa concert hall reykjavik</a>
+            <a href="damla" class="tittle">Damla Yıkama ve Çalkalama</a>
           </h3>
         </div>
       </div>
@@ -421,7 +414,7 @@ require_once 'header.php';
 </div>
 
 
-<div class="sponsor-section bg-grey">
+<!--<div class="sponsor-section bg-grey">
   <div class="dots"></div>
   <div class="container">
     <div id="sponsor-carousel" class="sponsor-carousel owl-carousel">
@@ -452,6 +445,7 @@ require_once 'header.php';
     </div>
   </div>
 </div>
+-->
 <?php
 require_once 'footer.php';
 ?>

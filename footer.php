@@ -61,7 +61,7 @@
         <p><a href="https://www.linkedin.com/in/yunus-emre-adaş-212200174/">Adas Web Systems</a></p>
       </div>
     </footer>
-    <a data-scroll href="#header" id="scroll-to-top"
+    <a data-scroll href="#" id="scroll-to-top"
       ><i class="arrow_carrot-up"></i
     ></a>
 

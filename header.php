@@ -1,12 +1,7 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="en">
-  <!--<![endif]-->
 
-  <!-- index  29 Nov 2019 03:27:29 GMT -->
+<html class="no-js" lang="en">
+ 
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -66,17 +61,17 @@
               <ul class="dl-menu">
                 <li>
                   <a href="index">Anasayfa</a>
-                  <!-- <ul>
+                   <ul>
                     <li><a href="index">Home Default</a></li>
                     <li><a href="index-2">Home Modern</a></li>
-                  </ul> -->
+                  </ul>
                 </li>
                 <li>
                   <a href="about-us">Hakkımızda</a>
-                  <!-- <ul>
+                   <ul>
                     <li><a href="about-us">Hakkımızda</a></li>
                     <li><a href="about-company">Şirket Hakkında</a></li>
-                  </ul> -->
+                  </ul> 
                 </li>
                 <li>
                   <a href="#">HİZMETLERİMİZ</a>
@@ -95,14 +90,14 @@
                     <li><a href="404">404 Error</a></li>
                   </ul>
                 </li>
-                <!-- <li>
+                 <li>
                   <a href="#">Blog</a>
                   <ul>
                     <li><a href="blog-grid">Blog Grid</a></li>
                     <li><a href="blog-classic">Blog Classic</a></li>
                     <li><a href="blog-single">Blog Single</a></li>
                   </ul>
-                </li> -->
+                </li> 
                 <li><a href="contact">İLETİŞİM</a></li>
               </ul>
             </div>
