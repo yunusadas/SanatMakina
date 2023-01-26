@@ -388,16 +388,7 @@ require_once 'header.php';
           <h3><a href="#" class="tittle">Milwauke museum wisconsin</a></h3>
         </div>
       </div>
-      <div class="project-item">
-        <img src="img/project-5.jpg" alt="projects" />
-        <div class="overlay"></div>
-        <a href="img/project-5.jpg" class="view-icon img-popup" data-gall="project">
-          <i class="fas fa-expand"></i></a>
-        <div class="projects-content">
-          <a href="#" class="category">Design</a>
-          <h3><a href="#" class="tittle">The dancing house prague</a></h3>
-        </div>
-      </div>
+     
     </div>
   </div>
 </section>

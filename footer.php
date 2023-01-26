@@ -5,8 +5,7 @@
             <div class="widget-content">
               <a href="index"><img src="img/logo-light.png" alt="brand" /></a>
               <p>
-                Building your own home is about desire, fantasy. But it’s
-                achievable anyone can do it.
+                Alanında uzman ekip ile makine sektörüne 38 yıldır yön veriyoruz.
               </p>
             </div>
           </div>
