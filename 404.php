@@ -8,9 +8,9 @@ require_once 'header.php';
           <div class="error-info">
             <h2>404</h2>
             <p>
-              Aha! You see! You can be wrong! <br />...either way, you should
-              probably <br />
-              <a href="#">Go Back To Homapage</a>
+              Aha! Gördün mü! Yanılmış olabilirsin! <br />...her iki durumda da, 
+              muhtemelen ana sayfaya geri dönmelisin<br /> 
+              <a href="index" style="font-size: 20px; margin-top:10px;">Anasayfaya Git</a>
             </p>
           </div>
         </div>
@@ -19,3 +19,8 @@ require_once 'header.php';
     <?php
     require_once 'footer.php';
     ?>
+    <!-- <p>
+              Aha! You see! You can be wrong! <br />...either way, you should
+              probably <br />
+              <a href="#">Go Back To Homapage</a>
+            </p> -->
