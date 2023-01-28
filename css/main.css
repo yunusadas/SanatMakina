@@ -1058,6 +1058,7 @@ button {
   border-radius: 2px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
+
 .projects-carousel .owl-nav div.owl-next {
   left: auto;
   right: -70px;
@@ -1388,7 +1389,7 @@ button {
   height: auto;
   position: absolute;
   left: 0;
-  bottom: -50px;
+  bottom: -40px;
   text-align: center;
 }
 .owl-controls .owl-dots .owl-dot {
@@ -1764,11 +1765,8 @@ button {
   color: #fff;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
-.blog-thumb {
-}
-.blog-thumb img {
-  margin-bottom: 20px;
-}
+
+
 .blog-single-content {
 }
 .blog-single-content h2 a {

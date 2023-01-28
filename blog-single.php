@@ -14,10 +14,24 @@ require_once 'header.php';
     <div class="blog-wrap row">
       <div class="col-lg-8 padding-15">
         <div class="blog-single-wrap">
-          <div class="blog-thumb">
-            <img src="img/post-1.jpg" alt="img" />
+          <div class="blog-thumb box-shadow owl-carousel"  id="project-single-carousel">
+            <div class="">
+              <img src="img/post-1.jpg" alt="img" />
+            </div>
+            <div class="">
+              <img src="img/post-1.jpg" alt="img" />
+            </div>
+            <div class="">
+              <img src="img/post-1.jpg" alt="img" />
+            </div>
+            <div class="">
+              <img src="img/post-1.jpg" alt="img" />
+            </div>
+            <div class="">
+              <img src="img/post-1.jpg" alt="img" />
+            </div>
           </div>
-          <div class="blog-single-content">
+          <div class="blog-single-content"><br><br>
             <h2>
               <a href="#">Minimalist trending in modern architecture 2019</a>
             </h2>
@@ -72,193 +86,13 @@ require_once 'header.php';
               <li><a href="#">interior</a></li>
               <li><a href="#">design</a></li>
             </ul>
-            <div class="author-box bg-grey">
-              <img src="img/testi-1.jpg" alt="img" />
-              <div class="author-info">
-                <h3>Albert Nouwen</h3>
-                <p>
-                  Redison is a different kind of architecture practice.
-                  Founded by LoganCee in 1991, we’re an employee-owned firm
-                  pursuing a democratic design.
-                </p>
-                <ul class="social-icon">
-                  <li>
-                    <a href="#"><i class="ti-facebook"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="ti-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="ti-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="ti-pinterest"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="ti-youtube"></i></a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="post-navigation row">
-              <div class="col prev-post">
-                <a href="#"><i class="ti-arrow-left"></i>Prev Post</a>
-              </div>
-              <div class="col next-post">
-                <a href="#">Next Post <i class="ti-arrow-right"></i></a>
-              </div>
-            </div>
-            <div class="comments-area">
-              <div class="comments-section">
-                <h3 class="comments-title">Posts Comments</h3>
-                <ol class="comments">
-                  <li class="comment even thread-even depth-1" id="comment-1">
-                    <div id="div-comment-1">
-                      <div class="comment-thumb">
-                        <div class="comment-img">
-                          <img src="img/comment-1.png" alt="" />
-                        </div>
-                      </div>
-                      <div class="comment-main-area">
-                        <div class="comment-wrapper">
-                          <div class="comments-meta">
-                            <h4>
-                              Jhon Castellon
-                              <span class="comments-date">jan 05, 2020 at 8:00</span>
-                            </h4>
-                          </div>
-                          <div class="comment-area">
-                            <p>
-                              Home renovations, especially those involving
-                              plentiful of demolition can be a very dusty
-                              affair. This nasty dust can easily free flow
-                              through your house.
-                            </p>
-                            <div class="comments-reply">
-                              <a class="comment-reply-link" href="#"><span>Reply</span></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <ul class="children">
-                      <li class="comment">
-                        <div>
-                          <div class="comment-thumb">
-                            <div class="comment-img">
-                              <img src="img/comment-2.png" alt="" />
-                            </div>
-                          </div>
-                          <div class="comment-main-area">
-                            <div class="comment-wrapper">
-                              <div class="comments-meta">
-                                <h4>
-                                  José Carpio
-                                  <span class="comments-date">jan 15, 2020 at 8:00</span>
-                                </h4>
-                              </div>
-                              <div class="comment-area">
-                                <p>
-                                  Home renovations, especially those
-                                  involving plentiful of demolition can be a
-                                  very dusty affair. This nasty dust can
-                                  easily free flow through your house.
-                                </p>
-                                <div class="comments-reply">
-                                  <a class="comment-reply-link" href="#"><span>Reply</span></a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <ul>
-                          <li class="comment">
-                            <div>
-                              <div class="comment-thumb">
-                                <div class="comment-img">
-                                  <img src="img/comment-3.png" alt="" />
-                                </div>
-                              </div>
-                              <div class="comment-main-area">
-                                <div class="comment-wrapper">
-                                  <div class="comments-meta">
-                                    <h4>
-                                      Valentin Lacoste
-                                      <span class="comments-date">jan 25, 2020 at 8:00</span>
-                                    </h4>
-                                  </div>
-                                  <div class="comment-area">
-                                    <p>
-                                      Home renovations, especially those
-                                      involving plentiful of demolition can
-                                      be a very dusty affair. This nasty
-                                      dust can easily free flow through your
-                                      house.
-                                    </p>
-                                    <div class="comments-reply">
-                                      <a class="comment-reply-link" href="#"><span>Reply</span></a>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="comment">
-                    <div>
-                      <div class="comment-thumb">
-                        <div class="comment-img">
-                          <img src="img/comment-4.png" alt="" />
-                        </div>
-                      </div>
-                      <div class="comment-main-area">
-                        <div class="comment-wrapper">
-                          <div class="comments-meta">
-                            <h4>
-                              Kyle Frederick
-                              <span class="comments-date">jan 02, 2020 at 8:00</span>
-                            </h4>
-                          </div>
-                          <div class="comment-area">
-                            <p>
-                              Home renovations, especially those involving
-                              plentiful of demolition can be a very dusty
-                              affair. This nasty dust can easily free flow
-                              through your house.
-                            </p>
-                            <div class="comments-reply">
-                              <a class="comment-reply-link" href="#"><span>Reply</span></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </li>
-                </ol>
-              </div>
-              <div class="comment-respond">
-                <h3 class="comment-reply-title">Write a Comment</h3>
-                <form method="post" id="commentform" class="comment-form">
-                  <div class="form-textarea">
-                    <textarea id="comment" placeholder="Write Your Comments..."></textarea>
-                  </div>
-                  <div class="form-inputs">
-                    <input placeholder="Website" type="url" />
-                    <input placeholder="Name" type="text" />
-                    <input placeholder="Email" type="email" />
-                  </div>
-                  <div class="form-submit">
-                    <input id="submit" value="Post Comment" type="submit" />
-                  </div>
-                </form>
-              </div>
-            </div>
+
+
+
           </div>
         </div>
       </div>
+
       <div class="col-lg-4 padding-15">
         <div class="sidebar-wrap">
           <div class="widget-content">
