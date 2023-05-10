@@ -16,12 +16,12 @@ require_once 'header.php';
         <div class="project-item">
           <img src="img/erciyes-front.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="#" class="view-icon ajax-popup-link">
+          <a href="dolum" class="view-icon ajax-popup-link">
             <i class="fas fa-expand"></i></a>
           <div class="projects-content">
-            <a href="erciyes" class="category">Sanat Makina</a>
+            <a href="dolum" class="category">Sanat Makina</a>
             <h3>
-              <a href="#" class="tittle">Erciyes Dolum Makinesi</a>
+              <a href="dolum" class="tittle">Dolum Makineleri</a>
             </h3>
           </div>
         </div>
@@ -30,11 +30,11 @@ require_once 'header.php';
         <div class="project-item">
           <img src="img/dimril_thumb.webp" alt="projects" />
           <div class="overlay"></div>
-          <a href="dirmil" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="siseleme" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
-            <a href="dirmil" class="category">Sanat Makina</a>
+            <a href="siseleme" class="category">Sanat Makina</a>
             <h3>
-              <a href="dirmil" class="tittle">Dirmil Monoblok</a>
+              <a href="siseleme" class="tittle">Şişeleme Makineleri</a>
             </h3>
           </div>
         </div>
@@ -43,11 +43,11 @@ require_once 'header.php';
         <div class="project-item">
           <img src="img/damla_thumb.webp" alt="projects" />
           <div class="overlay"></div>
-          <a href="damla" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="paketleme" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
-            <a href="damla" class="category">Sanat Makina</a>
+            <a href="paketleme" class="category">Sanat Makina</a>
             <h3>
-              <a href="damla" class="tittle">Damla Temizleme</a>
+              <a href="paketleme" class="tittle">Paketleme Makinaları</a>
             </h3>
           </div>
         </div>
@@ -56,11 +56,11 @@ require_once 'header.php';
         <div class="project-item">
           <img src="img/arbafa_thumb.webp" alt="projects" />
           <div class="overlay"></div>
-          <a href="arbafa" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="etiketleme" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
-            <a href="arbafa" class="category">Sanat Makina</a>
+            <a href="etiketleme" class="category">Sanat Makina</a>
             <h3>
-              <a href="arbafa" class="tittle">Arbafa Etiketleme Makinesi</a>
+              <a href="etiketleme" class="tittle">Etiketleme Makineleri</a>
             </h3>
           </div>
         </div>
@@ -69,10 +69,10 @@ require_once 'header.php';
         <div class="project-item">
           <img src="img/project-5.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="pastorizasyon" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
-            <a href="anasayfa" class="category">Sanat Makina</a>
-            <h3><a href="goksu" class="tittle">Goksu Paletleme</a></h3>
+            <a href="pastorizasyon" class="category">Sanat Makina</a>
+            <h3><a href="pastorizasyon" class="tittle"> Pastorizasyon Makineleri</a></h3>
           </div>
         </div>
       </div>
@@ -80,10 +80,10 @@ require_once 'header.php';
         <div class="project-item">
           <img src="img/project-6.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="tankalar" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
-            <a href="#" class="category">Design</a>
-            <h3><a href="#" class="tittle">The dancing house prague</a></h3>
+            <a href="tankalar" class="category">Sanat Makina</a>
+            <h3><a href="tankalar" class="tittle">Sıvı Dolum Tankları</a></h3>
           </div>
         </div>
       </div>

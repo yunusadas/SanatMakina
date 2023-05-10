@@ -21,7 +21,7 @@ require_once 'header.php';
                         <div class="projects-content">
                             <a href="cip_detay.php" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">Shirink Makinesi</a>
+                                <a href="cip_detay.php" class="tittle">OPP ETİKETLEME MAKİNASI</a>
                             </h3>
                         </div>
                     </div>
@@ -34,20 +34,7 @@ require_once 'header.php';
                         <div class="projects-content">
                             <a href="cip_detay.php" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">Dirmil Monoblok</a>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 padding-15">
-                    <div class="project-item">
-                        <img src="img/damla_thumb.webp" alt="projects" />
-                        <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon"> <i class="fas fa-expand"></i></a>
-                        <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
-                            <h3>
-                                <a href="cip_detay.php" class="tittle">Damla Temizleme</a>
+                                <a href="cip_detay.php" class="tittle">STİCKER ETİKETLEME MAKİNESİ</a>
                             </h3>
                         </div>
                     </div>

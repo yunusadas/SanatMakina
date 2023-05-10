@@ -23,7 +23,7 @@ require_once 'header.php';
               <h3>Dolum</h3>
               <p>
               Çalkalama Dolum ve Kapama Makinası.
-              Cam ve pet şişeler; su, meyve suyu, sirke, yağ gibi sıvıların dolumunu yapabilmektedir.
+              Cam ve pet şişeler; su, meyve suyu, gibi sıvıların dolumunu yapabilmektedir.
               </p>
               <a href="#" class="read-more">Daha Fazla</a>
               <div class="overlay-icon">

@@ -4,7 +4,7 @@ require_once 'header.php';
     <section class="page-header padding">
         <div class="container">
             <div class="page-content text-center">
-                <h2>Paletleme Makineleri</h2>
+                <h2>Paketleme Makineleri</h2>
                 <p>1984'ten beri gururla</p>
             </div>
         </div>
@@ -16,12 +16,12 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/erciyes-front.jpg" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon ajax-popup-link">
+                        <a href="paketleme_detay_1" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="paketleme_detay_1" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">Paletleme Makinesi</a>
+                                <a href="paketleme_detay_1" class="tittle">SARMALI TİP 0,5-1,5LT ÇİFT HATLI SHRINK MAKİNASI</a>
                             </h3>
                         </div>
                     </div>
@@ -30,11 +30,11 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/dimril_thumb.webp" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon"> <i class="fas fa-expand"></i></a>
+                        <a href="paketleme_detay_2" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="paketleme_detay_2" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">Dirmil Monoblok</a>
+                                <a href="paketleme_detay_2" class="tittle">ÖNDEN BESLEMELİ KAYNAKLI 0,5-1,5LT SHRINK MAKİNASI</a>
                             </h3>
                         </div>
                     </div>
@@ -43,11 +43,11 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/damla_thumb.webp" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon"> <i class="fas fa-expand"></i></a>
+                        <a href="paketleme_detay_3" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="paketleme_detay_3" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">Damla Temizleme</a>
+                                <a href="paketleme_detay_3" class="tittle">OTOMATİK PALET STREÇLEME MAKİNASI</a>
                             </h3>
                         </div>
                     </div>

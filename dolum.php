@@ -16,12 +16,12 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/erciyes-front.jpg" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon ajax-popup-link">
+                        <a href="dolum" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="dolum" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">Dolum Makinesi</a>
+                                <a href="dolum" class="tittle">Dolum Makinesi</a>
                             </h3>
                         </div>
                     </div>

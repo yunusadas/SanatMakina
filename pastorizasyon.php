@@ -21,7 +21,7 @@ require_once 'header.php';
                         <div class="projects-content">
                             <a href="pastorizasyon_detay" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="pastorizasyon_detay" class="tittle">Pastorizasyon</a>
+                                <a href="pastorizasyon_detay" class="tittle">PLAKALI PASTORİZATOR</a>
                             </h3>
                         </div>
                     </div>
@@ -34,7 +34,7 @@ require_once 'header.php';
                         <div class="projects-content">
                             <a href="dirmil" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="dirmil" class="tittle">Dirmil Monoblok</a>
+                                <a href="dirmil" class="tittle">TUBULER PASTÖRİZATÖR</a>
                             </h3>
                         </div>
                     </div>

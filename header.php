@@ -104,18 +104,18 @@
                   <ul>
                     <li><a href="dolum">Dolum Makineleri</a></li>
                     <li><a href="siseleme">Şişeleme Makineleri</a></li>
-                    <li><a href="paletleme">Paletleme-Palet Bozma</a></li>
+                    <li><a href="paketleme">Paketleme-Makineleri</a></li>
                     <li><a href="etiketleme">Etiketleme Makineleri</a></li>
                     <li><a href="pastorizasyon">Pastörizasyon Hatları</a></li>
                     <li><a href="tanklar">Tanklar</a></li>
-                    <li><a href="cip.php">Shrink Makineleri</a></li>
+                    <li><a href="cip">Shrink Makineleri</a></li>
                   </ul>
                 </li>
               <li><a href="contact">İLETİŞİM</a></li>
             </ul>
           </div>
           <div class="header-right">
-            <a class="menu-btn" href="#">Bize Yazın</a>
+            <a class="menu-btn" href="contact">Bize Yazın</a>
 
             <div class="mobile-menu-icon">
               <div class="burger-menu">
