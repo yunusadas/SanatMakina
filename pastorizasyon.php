@@ -16,12 +16,12 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/erciyes-front.jpg" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="pastorizasyon_detay" class="view-icon ajax-popup-link">
+                        <a href="pastorizasyon_detay_1" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="pastorizasyon_detay" class="category">Sanat Makina</a>
+                            <a href="pastorizasyon_detay_1" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="pastorizasyon_detay" class="tittle">PLAKALI PASTORİZATOR</a>
+                                <a href="pastorizasyon_detay_1" class="tittle">PLAKALI PASTORİZATOR</a>
                             </h3>
                         </div>
                     </div>
@@ -30,24 +30,11 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/dimril_thumb.webp" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="dirmil" class="view-icon"> <i class="fas fa-expand"></i></a>
+                        <a href="pastorizasyon_detay_2" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="dirmil" class="category">Sanat Makina</a>
+                            <a href="pastorizasyon_detay_2" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="dirmil" class="tittle">TUBULER PASTÖRİZATÖR</a>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 padding-15">
-                    <div class="project-item">
-                        <img src="img/damla_thumb.webp" alt="projects" />
-                        <div class="overlay"></div>
-                        <a href="damla" class="view-icon"> <i class="fas fa-expand"></i></a>
-                        <div class="projects-content">
-                            <a href="damla" class="category">Sanat Makina</a>
-                            <h3>
-                                <a href="damla" class="tittle">Damla Temizleme</a>
+                                <a href="pastorizasyon_detay_2" class="tittle">TUBULER PASTÖRİZATÖR</a>
                             </h3>
                         </div>
                     </div>

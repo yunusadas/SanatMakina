@@ -16,12 +16,12 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/erciyes-front.jpg" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon ajax-popup-link">
+                        <a href="tank_detay_1" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="tank_detay_1" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">MEYVE SUYU TANKLARI </a>
+                                <a href="tank_detay_1" class="tittle">MEYVE SUYU TANKLARI </a>
                             </h3>
                         </div>
                     </div>
@@ -30,11 +30,11 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/dimril_thumb.webp" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon"> <i class="fas fa-expand"></i></a>
+                        <a href="tank_detay_2" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="tank_detay_2" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">MARSHMALLOW TANKLARI</a>
+                                <a href="tank_detay_2" class="tittle">MARSHMALLOW TANKLARI</a>
                             </h3>
                         </div>
                     </div>
