@@ -14,27 +14,27 @@ require_once 'header.php';
             <div class="row">
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="project-item">
-                        <img src="img/erciyes-front.jpg" alt="projects" />
+                        <img src="img/Makinalar/kapak_imgs/OPP-ETİKETLEME-MAKİNASI_1.jpg" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon ajax-popup-link">
+                        <a href="etiketleme_detay_1" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="etiketleme_detay_1" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">OPP ETİKETLEME MAKİNASI</a>
+                                <a href="etiketleme_detay_1" class="tittle">OPP ETİKETLEME MAKİNASI</a>
                             </h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="project-item">
-                        <img src="img/dimril_thumb.webp" alt="projects" />
+                        <img src="img/Makinalar/kapak_imgs/STICKER-ETIKETLEME-MAKINASI_1.jpg" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="cip_detay.php" class="view-icon"> <i class="fas fa-expand"></i></a>
+                        <a href="etiketleme_detay_2" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="cip_detay.php" class="category">Sanat Makina</a>
+                            <a href="etiketleme_detay_2" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="cip_detay.php" class="tittle">STİCKER ETİKETLEME MAKİNESİ</a>
+                                <a href="etiketleme_detay_2" class="tittle">STİCKER ETİKETLEME MAKİNESİ</a>
                             </h3>
                         </div>
                     </div>

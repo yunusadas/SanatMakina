@@ -62,53 +62,22 @@
             <ul class="dl-menu">
               <li>
                 <a href="index">Anasayfa</a>
-                <!-- <ul>
-                    <li><a href="index">Home Default</a></li>
-                    <li><a href="index-2">Home Modern</a></li>
-                  </ul> -->
               </li>
               <li>
                 <a href="about-us">Hakkımızda</a>
-                <!-- <ul>
-                    <li><a href="about-us">Hakkımızda</a></li>
-                    <li><a href="about-company">Şirket Hakkında</a></li>
-                  </ul>  -->
               </li>
               <li>
-                <a href="services-2">HİZMETLERİMİZ</a>
-                <!-- <ul>
-                    
-                    <li><a href="services-2">Services 02</a></li>
-                  </ul> -->
+                <a href="hizmetler">HİZMETLERİMİZ</a>
               </li>
-              <li>
-                <a href="projects">Sayfalar</a>
-                <ul>
-                  <li><a href="projects">Our Projects</a></li>
-                  <li><a href="project-single">Project Single</a></li>
-                  <li><a href="team">Our Team</a></li>
-                  <li><a href="testimonial">Testimonial</a></li>
-                  <li><a href="404">404 Error</a></li>
-                </ul>
-              </li>
-              <!-- <li>
-                  <a href="#">Blog</a>
-                  <ul>
-                    <li><a href="blog-grid">Blog Grid</a></li>
-                    <li><a href="blog-classic">Blog Classic</a></li>
-                    <li><a href="blog-single">Blog Single</a></li>
-                  </ul>
-                </li>  -->
                 <li>
-                  <a href="projects">Ürünlerimiz</a>
+                  <a href="projects">ÜRÜNLERİMİZ</a>
                   <ul>
                     <li><a href="dolum">Dolum Makineleri</a></li>
-                    <li><a href="siseleme">Şişeleme Makineleri</a></li>
                     <li><a href="paketleme">Paketleme-Makineleri</a></li>
                     <li><a href="etiketleme">Etiketleme Makineleri</a></li>
                     <li><a href="pastorizasyon">Pastörizasyon Hatları</a></li>
                     <li><a href="tanklar">Tanklar</a></li>
-                    <li><a href="cip">Shrink Makineleri</a></li>
+                    <li><a href="cip">CIP Uniteleri</a></li>
                   </ul>
                 </li>
               <li><a href="contact">İLETİŞİM</a></li>
@@ -116,7 +85,6 @@
           </div>
           <div class="header-right">
             <a class="menu-btn" href="contact">Bize Yazın</a>
-
             <div class="mobile-menu-icon">
               <div class="burger-menu">
                 <div class="line-menu line-half first-line"></div>

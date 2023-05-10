@@ -1,49 +1,51 @@
 <?php
 require_once 'header.php';
 ?>
-<section class="project-single-section padding">
-    <div class="container">
-        <div class="row project-single-wrap align-items-center">
-            <div class="col-md-6 sm-padding">
-                <div id="project-single-carousel" class="project-single-carousel box-shadow owl-carousel">
-                    <div class="single-carousel">
-                        <img src="img/dimril1.webp" alt="img" />
-                    </div>
-                    <div class="single-carousel">
-                        <img src="img/dimril3.webp" alt="img" />
-                    </div>
-                    <div class="single-carousel">
-                        <img src="img/dimril2.webp" alt="img" />
+    <section class="project-single-section padding">
+        <div class="container">
+            <div class="row project-single-wrap align-items-center">
+                <div class="col-md-6 sm-padding">
+                    <div id="project-single-carousel" class="project-single-carousel box-shadow owl-carousel">
+                        <div class="single-carousel">
+                            <img src="img/Makinalar/detay_imgs/dimril01.jpg" alt="img"/>
+                        </div>
+                        <div class="single-carousel">
+                            <img src="img/Makinalar/detay_imgs/dimril02.jpg" alt="img"/>
+                        </div>
+                        <div class="single-carousel">
+                            <img src="img/Makinalar/detay_imgs/dimril03.jpg" alt="img"/>
+                        </div>
+                        <div class="single-carousel">
+                            <img src="img/Makinalar/detay_imgs/dimril04.jpg" alt="img"/>
+                        </div>
+                        <div class="single-carousel">
+                            <img src="img/Makinalar/detay_imgs/dimril05.jpg" alt="img"/>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md-6 sm-padding">
-                <div class="project-single-content">
-                    <h2>Dirmil Monoblok<br> Basınçlı dolum ve çalkalama makinesi</h2>
-                    <p>
-                        Gazlı sıvı dolum makinası
-                        kola, gazoz, maden suyu vb. gazlı içecek ve meşrubatlara dolum yapar.
-                    </p>
-                    <ul class="project-details">
-                        <li>
-                            <span>Architects</span>: José Carpio, Valentin Lacoste, Kyle
-                            Frederick
-                        </li>
-                        <li>
-                            <span>Location</span>: 962 Fifth Avenue, 3rd Floor New York.
-                        </li>
-                        <li><span>Category</span>: Architecture, Interior.</li>
-                        <li><span>Area</span>: 119.0.563</li>
-                        <li><span>Project Year</span>: 2019/2020</li>
-                        <li>
-                            <span>Manufactures</span>: AlexaTheme construction company.
-                        </li>
-                    </ul>
+                <div class="col-md-6 sm-padding">
+                    <div class="project-single-content">
+                        <h2>ADS-2<br> Basınçlı dolum ve çalkalama makinesi</h2>
+                        <p>
+                            Makine monoblok gövde üzerinde oluşturulmaktadır. Kumanda dokunmatik ekrandan yapılmaktadır.
+                            Değişken hız ayarını anında yapabilme.
+                        </p>
+                        - Makinanın etrafı “CE” normlarında muhafaza çerçeveleri ile kapatılmıştır.<br>
+                        - Ürün girişi üç yollu vana ile sağlanmaktadır.<br>
+                        - Makine CIP sistemine uygundur.<br>
+                        - Değişken hız ayarını anında yapabilme.<br>
+                        - Ürün ile temas eden noktalar tamamen paslanmaz malzemeden imal edilmektedir.<br>
+                        - Diğer yerlerde önemine göre çelik ve gıdaya uygun plastik malzeme kullanılmaktadır.<br>
+                        - Değişik şişe tiplerine kolay ve hızlı geçiş sağlayan şişe değişim setleri.<br>
+                        - Makine girişinde şişe durdurma sistemi.<br>
+                        - Manyetik kapak kapatma sistemi ile güvenli ve otomatik kapatma.<br>
+                        - Kapak bittiğinde makineyı durduran otomatik kapak besleme sistemi.<br>
+                        - Makinanın tüm fonksiyonları PLC sistem ile kontrol edilmektedir.<br>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 <?php
 require_once 'footer.php';
 ?>

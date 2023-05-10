@@ -7,38 +7,29 @@ require_once 'header.php';
                 <div class="col-md-6 sm-padding">
                     <div id="project-single-carousel" class="project-single-carousel box-shadow owl-carousel">
                         <div class="single-carousel">
-                            <img src="img/dimril1.webp" alt="img" />
+                            <img src="img/Makinalar/detay_imgs/CIP-CLEANING_1.jpg" alt="img" />
                         </div>
                         <div class="single-carousel">
-                            <img src="img/dimril3.webp" alt="img" />
-                        </div>
-                        <div class="single-carousel">
-                            <img src="img/dimril2.webp" alt="img" />
+                            <img src="img/Makinalar/detay_imgs/CIP-CLEANING_2.jpg" alt="img" />
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 sm-padding">
                     <div class="project-single-content">
-                        <h2>Dirmil Monoblok<br> Basınçlı dolum ve çalkalama makinesi</h2>
+                        <h2>CIP CLEANING<br>Temizleme Makinası</h2>
                         <p>
-                            Gazlı sıvı dolum makinası
-                            kola, gazoz, maden suyu vb. gazlı içecek ve meşrubatlara dolum yapar.
+                            JCS CIP Sistemi, her devreyi olabildiğince verimli bir şekilde temizlemek için tasarlanmıştır, kimyasal kullanım ve süre için optimize edilmiştir.
+                            <br>
+                            Standart JCS CIP Sequencer, 5 adımlı ve 7 adımlı CIP süreçleriyle önceden programlanmıştır.
+                            <br>
+                            JCS CIP Dizisi, iğneleme çizelgeleri tarafından kontrol edilir. Sabitleme, gerçek zamanlı olarak Microsoft Excel kullanılarak görüntülenebilir ve değiştirilebilir. Bu, özel CIP Proseslerinin, yani soğuk suyla durulama, sıcak suyla durulama vb. seçeneklerin eklenmesini kolaylaştırır.
+                            <br>
+                            Enstrümantasyon doğru kontrol sağlar ve performansı optimize eder. Bir şeyi ölçerseniz, optimize edebilirsiniz.
+                            <br>
+                            UYGULAMALAR
+                            <br>
+                            Süt, Shake Karışımı, Dondurma Karışımı, Fonksiyonel İçecekler, Bitkisel İçecekler, Fındıklı İçecekler, Meyve Suları, Nektar, Çay, Soslar, Püreler ve daha birçok çeşit yiyecek ve içecek.
                         </p>
-                        <ul class="project-details">
-                            <li>
-                                <span>Architects</span>: José Carpio, Valentin Lacoste, Kyle
-                                Frederick
-                            </li>
-                            <li>
-                                <span>Location</span>: 962 Fifth Avenue, 3rd Floor New York.
-                            </li>
-                            <li><span>Category</span>: Architecture, Interior.</li>
-                            <li><span>Area</span>: 119.0.563</li>
-                            <li><span>Project Year</span>: 2019/2020</li>
-                            <li>
-                                <span>Manufactures</span>: AlexaTheme construction company.
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>

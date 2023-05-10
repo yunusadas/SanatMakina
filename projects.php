@@ -14,9 +14,9 @@ require_once 'header.php';
     <div class="row">
       <div class="col-lg-4 col-sm-6 padding-15">
         <div class="project-item">
-          <img src="img/erciyes-front.jpg" alt="projects" />
+          <img src="img/Makinalar/kapak_imgs/erciyes05.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="dolum" class="view-icon ajax-popup-link">
+          <a href="img/Makinalar/kapak_imgs/erciyes05.jpg" class="view-icon ajax-popup-link">
             <i class="fas fa-expand"></i></a>
           <div class="projects-content">
             <a href="dolum" class="category">Sanat Makina</a>
@@ -28,22 +28,9 @@ require_once 'header.php';
       </div>
       <div class="col-lg-4 col-sm-6 padding-15">
         <div class="project-item">
-          <img src="img/dimril_thumb.webp" alt="projects" />
+          <img src="img/Makinalar/kapak_imgs/HATLI-SHRINK_1.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="siseleme" class="view-icon"> <i class="fas fa-expand"></i></a>
-          <div class="projects-content">
-            <a href="siseleme" class="category">Sanat Makina</a>
-            <h3>
-              <a href="siseleme" class="tittle">Şişeleme Makineleri</a>
-            </h3>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-6 padding-15">
-        <div class="project-item">
-          <img src="img/damla_thumb.webp" alt="projects" />
-          <div class="overlay"></div>
-          <a href="paketleme" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="img/Makinalar/kapak_imgs/HATLI-SHRINK_1.jpg" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
             <a href="paketleme" class="category">Sanat Makina</a>
             <h3>
@@ -54,9 +41,9 @@ require_once 'header.php';
       </div>
       <div class="col-lg-4 col-sm-6 padding-15">
         <div class="project-item">
-          <img src="img/arbafa_thumb.webp" alt="projects" />
+          <img src="img/Makinalar/kapak_imgs/OPP-ETİKETLEME-MAKİNASI_1.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="etiketleme" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="img/Makinalar/kapak_imgs/OPP-ETİKETLEME-MAKİNASI_1.jpg" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
             <a href="etiketleme" class="category">Sanat Makina</a>
             <h3>
@@ -67,9 +54,9 @@ require_once 'header.php';
       </div>
       <div class="col-lg-4 col-sm-6 padding-15">
         <div class="project-item">
-          <img src="img/project-5.jpg" alt="projects" />
+          <img src="img/Makinalar/kapak_imgs/PLAKALI-PASTORİZATOR_2.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="pastorizasyon" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="img/Makinalar/kapak_imgs/PLAKALI-PASTORİZATOR_2.jpg" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
             <a href="pastorizasyon" class="category">Sanat Makina</a>
             <h3><a href="pastorizasyon" class="tittle"> Pastorizasyon Makineleri</a></h3>
@@ -78,12 +65,23 @@ require_once 'header.php';
       </div>
       <div class="col-lg-4 col-sm-6 padding-15">
         <div class="project-item">
-          <img src="img/project-6.jpg" alt="projects" />
+          <img src="img/Makinalar/kapak_imgs/MARSHMALLOW-TANKLARI_1.jpg" alt="projects" />
           <div class="overlay"></div>
-          <a href="tankalar" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="img/Makinalar/kapak_imgs/MARSHMALLOW-TANKLARI_1.jpg" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
-            <a href="tankalar" class="category">Sanat Makina</a>
-            <h3><a href="tankalar" class="tittle">Sıvı Dolum Tankları</a></h3>
+            <a href="tanklar" class="category">Sanat Makina</a>
+            <h3><a href="tanklar" class="tittle">Sıvı Dolum Tankları</a></h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-sm-6 padding-15">
+        <div class="project-item">
+          <img src="img/Makinalar/kapak_imgs/CIP-CLEANING_1.jpg" alt="projects" />
+          <div class="overlay"></div>
+          <a href="img/Makinalar/kapak_imgs/CIP-CLEANING_1.jpg" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <div class="projects-content">
+            <a href="cip" class="category">Sanat Makina</a>
+            <h3><a href="cip" class="tittle">CIP Uniteleri</a></h3>
           </div>
         </div>
       </div>

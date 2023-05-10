@@ -24,8 +24,8 @@
             <div class="widget-content">
               <h4>Adres</h4>
               <p>Ataturk Bulvarı Beyaz Tower Kat:6 No:90 Başakşehir-İst</p>
-              <span>info@sanatmakina.com</span>
-              <span>(+90) 212 671 83 40</span>
+              <span><a href="mailto:info@sanatmakina.com" style="color: #8d9aa8;">info@sanatmakina.com</a></span>
+              <span><a href="tel:+902126718340" style="color: #8d9aa8;" >(+90) 212 671 83 40</a></span>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6 sm-padding">

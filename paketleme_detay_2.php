@@ -7,13 +7,10 @@ require_once 'header.php';
                 <div class="col-md-6 sm-padding">
                     <div id="project-single-carousel" class="project-single-carousel box-shadow owl-carousel">
                         <div class="single-carousel">
-                            <img src="img/dimril1.webp" alt="img" />
+                            <img src="img/Makinalar/detay_imgs/ONDEN_SHRINK-MAKİNASI_1.jpg" alt="img" />
                         </div>
                         <div class="single-carousel">
-                            <img src="img/dimril3.webp" alt="img" />
-                        </div>
-                        <div class="single-carousel">
-                            <img src="img/dimril2.webp" alt="img" />
+                            <img src="img/Makinalar/detay_imgs/ONDEN_SHRINK-MAKİNASI_1.jpg" alt="img" />
                         </div>
                     </div>
                 </div>

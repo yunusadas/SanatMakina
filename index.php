@@ -217,7 +217,7 @@ require_once 'header.php';
               Çalkalama Dolum ve Kapama Makinası.
               Cam ve pet şişeler; su, meyve suyu, sirke, yağ gibi gazsız sıvıların dolumunu yapabilmektedir.
             </p>
-            <a href="#" class="read-more">Daha Fazla</a>
+            <a href="dolum" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-3d-printer"></i>
             </div>
@@ -231,7 +231,7 @@ require_once 'header.php';
               Etiket Yapıştırma Makinesi. Silindirik şişelere
               çepeçevre veya alın etiketi yapıştırmak için tasarlanmıştır. Tam otomatiktir.
             </p>
-            <a href="#" class="read-more">Daha Fazla</a>
+            <a href="etiketleme" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-industrial-robot"></i>
             </div>
@@ -245,7 +245,7 @@ require_once 'header.php';
               Dolum makinesinden çıkan sıcak şişelerin
               soğutulmasında veya soğuk şişelerin ısıtılmasında kullanılır.
             </p>
-            <a href="#" class="read-more">Daha Fazla</a>
+            <a href="pastorizasyon" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-assembly-line"></i>
             </div>
@@ -258,7 +258,7 @@ require_once 'header.php';
             <p>
               Şişe Temizleme Çalkalama Makinesi. Dolum makinesine şişelerin temizenmiş bir şekilde girmesini sağlar. Basınçlı yıkama.
             </p>
-            <a href="#" class="read-more">Daha Fazla</a>
+            <a href="cip" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-conveyor"></i>
             </div>
@@ -267,11 +267,11 @@ require_once 'header.php';
             <div class="service-icon">
               <i class="flaticon-control-system"></i>
             </div>
-            <h3>Paletleme </h3>
+            <h3>Paketleme </h3>
             <p>
-            <div>Paletleme - Palet Bozma Makinesi. Paletler halinde gelen şişeleri dolum hattına verme. Dolum hattı sonunda dolu şişeleri paletleme.</div>
+            <div>Paketleme - Palet Bozma Makinesi. Paletler halinde gelen şişeleri dolum hattına verme. Dolum hattı sonunda dolu şişeleri paletleme.</div>
             </p>
-            <a href="#" class="read-more">Daha Fazla</a>
+            <a href="paketleme" class="read-more">Daha Fazla</a>
             <div class="overlay-icon">
               <i class="flaticon-control-system"></i>
             </div>
@@ -343,49 +343,49 @@ require_once 'header.php';
     </div>
     <div id="projects-carousel" class="projects-carousel box-shadow owl-carousel">
       <div class="project-item">
-        <img src="img/dimril_thumb.webp" alt="projects" />
+        <img src="img/Makinalar/kapak_imgs/erciyes05.jpg" alt="projects" />
         <div class="overlay"></div>
-        <a href="img/dimril_thumb.webp" class="view-icon img-popup" data-gall="project">
+        <a href="img/Makinalar/kapak_imgs/erciyes05.jpg" class="view-icon img-popup" data-gall="project">
           <i class="fas fa-expand"></i></a>
         <div class="projects-content">
-          <a href="about-us" class="category">Sanat Makina</a>
+          <a href="dolum" class="category">Sanat Makina</a>
           <h3>
-            <a href="dirmil" class="tittle">Dirmil Monoblok</a>
+            <a href="dolum" class="tittle">Dolum Makineleri</a>
           </h3>
         </div>
       </div>
       <div class="project-item">
-        <img src="img/arbafa_thumb.webp" alt="projects" />
+        <img src="img/Makinalar/kapak_imgs/PLAKALI-PASTORİZATOR_2.jpg" alt="projects" />
         <div class="overlay"></div>
-        <a href="img/project-2.jpg" class="view-icon img-popup" data-gall="project">
+        <a href="img/Makinalar/kapak_imgs/PLAKALI-PASTORİZATOR_2.jpg" class="view-icon img-popup" data-gall="project">
           <i class="fas fa-expand"></i></a>
         <div class="projects-content">
-          <a href="about-us" class="category">Sanat Makina</a>
+          <a href="pastorizasyon" class="category">Sanat Makina</a>
           <h3>
-            <a href="arbafa" class="tittle">Arbafa Etiketleme</a>
+            <a href="pastorizasyon" class="tittle">Pastorizasyon Uniteleri</a>
           </h3>
         </div>
       </div>
       <div class="project-item">
-        <img src="img/damla_thumb.webp" alt="projects" />
+        <img src="img/Makinalar/kapak_imgs/OPP-ETİKETLEME-MAKİNASI_1.jpg" alt="projects" />
         <div class="overlay"></div>
-        <a href="img/project-3.jpg" class="view-icon img-popup" data-gall="project">
+        <a href="img/Makinalar/kapak_imgs/OPP-ETİKETLEME-MAKİNASI_1.jpg" class="view-icon img-popup" data-gall="project">
           <i class="fas fa-expand"></i></a>
         <div class="projects-content">
-          <a href="about-us" class="category">Sanat Makina</a>
+          <a href="etiketleme" class="category">Sanat Makina</a>
           <h3>
-            <a href="damla" class="tittle">Damla Yıkama ve Çalkalama</a>
+            <a href="etiketleme" class="tittle">Etiketleme Makineleri</a>
           </h3>
         </div>
       </div>
       <div class="project-item">
-        <img src="img/erciyes-front.jpg" alt="projects" />
+        <img src="img/Makinalar/kapak_imgs/CIP-CLEANING_1.jpg" alt="projects" />
         <div class="overlay"></div>
-        <a href="img/project-4.jpg" class="view-icon img-popup" data-gall="project">
+        <a href="img/Makinalar/kapak_imgs/CIP-CLEANING_1.jpg" class="view-icon img-popup" data-gall="project">
           <i class="fas fa-expand"></i></a>
         <div class="projects-content">
-          <a href="#" class="category">Architecture</a>
-          <h3><a href="#" class="tittle">Milwauke museum wisconsin</a></h3>
+          <a href="cip" class="category">Sanat Makina</a>
+          <h3><a href="cip" class="tittle">CIP Uniteleri</a></h3>
         </div>
       </div>
      
@@ -403,40 +403,6 @@ require_once 'header.php';
     </div>
   </div>
 </div>
-
-
-<!--<div class="sponsor-section bg-grey">
-  <div class="dots"></div>
-  <div class="container">
-    <div id="sponsor-carousel" class="sponsor-carousel owl-carousel">
-      <div class="sponsor-item">
-        <img src="img/sponsor1.png" alt="sponsor" />
-      </div>
-      <div class="sponsor-item">
-        <img src="img/sponsor2.png" alt="sponsor" />
-      </div>
-      <div class="sponsor-item">
-        <img src="img/sponsor3.png" alt="sponsor" />
-      </div>
-      <div class="sponsor-item">
-        <img src="img/sponsor4.png" alt="sponsor" />
-      </div>
-      <div class="sponsor-item">
-        <img src="img/sponsor5.png" alt="sponsor" />
-      </div>
-      <div class="sponsor-item">
-        <img src="img/sponsor6.png" alt="sponsor" />
-      </div>
-      <div class="sponsor-item">
-        <img src="img/sponsor7.png" alt="sponsor" />
-      </div>
-      <div class="sponsor-item">
-        <img src="img/sponsor8.png" alt="sponsor" />
-      </div>
-    </div>
-  </div>
-</div>
--->
 <?php
 require_once 'footer.php';
 ?>

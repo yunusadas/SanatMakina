@@ -4,7 +4,7 @@ require_once 'header.php';
     <section class="page-header padding">
         <div class="container">
             <div class="page-content text-center">
-                <h2>CIP Makineleri</h2>
+                <h2>CIP UNİTELERİ</h2>
                 <p>1984'ten beri gururla</p>
             </div>
         </div>
@@ -14,7 +14,7 @@ require_once 'header.php';
             <div class="row">
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="project-item">
-                        <img src="img/erciyes-front.jpg" alt="projects" />
+                        <img src="img/Makinalar/kapak_imgs/CIP-CLEANING_1.jpg" alt="projects" />
                         <div class="overlay"></div>
                         <a href="cip_detay.php" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
