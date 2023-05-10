@@ -102,13 +102,13 @@
                 <li>
                   <a href="projects">Ürünlerimiz</a>
                   <ul>
-                    <li><a href="ektam">Dolum Makineleri</a></li>
-                    <li><a href="ektam">Şişeleme Makineleri</a></li>
-                    <li><a href="ektam">Paletleme-Palet Bozma</a></li>
-                    <li><a href="ektam">Etiketleme Makineleri</a></li>
+                    <li><a href="dolum">Dolum Makineleri</a></li>
+                    <li><a href="siseleme">Şişeleme Makineleri</a></li>
+                    <li><a href="paletleme">Paletleme-Palet Bozma</a></li>
+                    <li><a href="etiketleme">Etiketleme Makineleri</a></li>
                     <li><a href="pastorizasyon">Pastörizasyon Hatları</a></li>
                     <li><a href="tanklar">Tanklar</a></li>
-                    <li><a href="shirink">Shrink Makineleri</a></li>
+                    <li><a href="cip.php">Shrink Makineleri</a></li>
                   </ul>
                 </li>
               <li><a href="contact">İLETİŞİM</a></li>

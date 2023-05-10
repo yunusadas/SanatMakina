@@ -4,7 +4,7 @@ require_once 'header.php';
     <section class="page-header padding">
         <div class="container">
             <div class="page-content text-center">
-                <h2>Pastorizasyon Tesisleri</h2>
+                <h2>Etiketleme Makineleri</h2>
                 <p>1984'ten beri gururla</p>
             </div>
         </div>
@@ -16,12 +16,12 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/erciyes-front.jpg" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="pastorizasyon_detay" class="view-icon ajax-popup-link">
+                        <a href="cip_detay.php" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="pastorizasyon_detay" class="category">Sanat Makina</a>
+                            <a href="cip_detay.php" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="pastorizasyon_detay" class="tittle">Pastorizasyon</a>
+                                <a href="cip_detay.php" class="tittle">Shirink Makinesi</a>
                             </h3>
                         </div>
                     </div>
@@ -30,11 +30,11 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/dimril_thumb.webp" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="dirmil" class="view-icon"> <i class="fas fa-expand"></i></a>
+                        <a href="cip_detay.php" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="dirmil" class="category">Sanat Makina</a>
+                            <a href="cip_detay.php" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="dirmil" class="tittle">Dirmil Monoblok</a>
+                                <a href="cip_detay.php" class="tittle">Dirmil Monoblok</a>
                             </h3>
                         </div>
                     </div>
@@ -43,11 +43,11 @@ require_once 'header.php';
                     <div class="project-item">
                         <img src="img/damla_thumb.webp" alt="projects" />
                         <div class="overlay"></div>
-                        <a href="damla" class="view-icon"> <i class="fas fa-expand"></i></a>
+                        <a href="cip_detay.php" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="damla" class="category">Sanat Makina</a>
+                            <a href="cip_detay.php" class="category">Sanat Makina</a>
                             <h3>
-                                <a href="damla" class="tittle">Damla Temizleme</a>
+                                <a href="cip_detay.php" class="tittle">Damla Temizleme</a>
                             </h3>
                         </div>
                     </div>
