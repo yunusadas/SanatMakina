@@ -14,7 +14,7 @@ require_once 'header.php';
             <div class="row">
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="project-item">
-                        <img src="img/Makinalar/kapak_imgs/HATLI-SHRINK_1.jpg" alt="projects" />
+                        <img src="img/Makinalar/kapak_imgs/sh1-kapak.png" alt="projects" />
                         <div class="overlay"></div>
                         <a href="paketleme_detay_1" class="view-icon ajax-popup-link">
                             <i class="fas fa-expand"></i></a>
@@ -28,7 +28,7 @@ require_once 'header.php';
                 </div>
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="project-item">
-                        <img src="img/Makinalar/kapak_imgs/Otomatik-strecleme.jpeg" alt="projects" />
+                        <img src="img/Makinalar/kapak_imgs/sh2-kapak.png" alt="projects" />
                         <div class="overlay"></div>
                         <a href="paketleme_detay_2" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
@@ -41,7 +41,7 @@ require_once 'header.php';
                 </div>
                 <div class="col-lg-4 col-sm-6 padding-15">
                     <div class="project-item">
-                        <img src="img/Makinalar/kapak_imgs/HATLI-SHRINK_1.jpg" alt="projects" />
+                        <img src="img/Makinalar/kapak_imgs/sh3-kapak.png" alt="projects" />
                         <div class="overlay"></div>
                         <a href="paketleme_detay_3" class="view-icon"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">

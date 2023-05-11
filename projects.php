@@ -28,9 +28,9 @@ require_once 'header.php';
       </div>
       <div class="col-lg-4 col-sm-6 padding-15">
         <div class="project-item">
-          <img src="img/Makinalar/kapak_imgs/HATLI-SHRINK_1.jpg" alt="projects" />
+          <img src="img/Makinalar/kapak_imgs/sh2-kapak.png" alt="projects" />
           <div class="overlay"></div>
-          <a href="img/Makinalar/kapak_imgs/HATLI-SHRINK_1.jpg" class="view-icon"> <i class="fas fa-expand"></i></a>
+          <a href="img/Makinalar/kapak_imgs/sh2-kapak.png" class="view-icon"> <i class="fas fa-expand"></i></a>
           <div class="projects-content">
             <a href="paketleme" class="category">Sanat Makina</a>
             <h3>
